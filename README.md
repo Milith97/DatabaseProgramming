@@ -1,1 +1,1 @@
-# DatabaseProgramming
+# StudentManagementSystem
